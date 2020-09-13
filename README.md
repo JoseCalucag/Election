@@ -22,6 +22,11 @@ I was tasked by the Colorado Board of Elections committee to complete an electio
 - Software: Python 3.7.6, Visual Studio code, 1.49
 
 ## Election Audit Results
+
+<p align = "center">
+<img src ="https://github.com/JoseCalucag/Election-Analysis/blob/master/Resources/PrintOut.png" width = "200" height = "250">
+</p>
+
 To answer the committee's data points:
 
 - There were 369,711 votes cast in the election.
@@ -50,4 +55,4 @@ To answer the committee's data points:
   Denver County
 
 ## Audit Summary
-  As long as future csv's have the same tabular format, we should be able to use the python code 
+Even though this code was created for tallying the votes for the state of Colorado election, you will be able to use this freely for future elections; and not just for Colorado. As long as the csv follows the same tabular format, you can use this for other counties, states, even countries. Just be sure to rename your data ccordingly in the python code. Also, you can try different methods of leveraging the data. For instance, when looking at the county code, consider looking at the counties that have the least amount of votes. That way, candidates can reconsider campaigning strategies.
