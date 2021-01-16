@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-I was tasked by the Colorado Board of Elections committee to complete an election audit of a recent local congressional election. With the collected data, they wanted certain data points to be reported:
+I was tasked to complete an audit of a recent local congressional election taken in Colorado. With the collected data, they wanted certain data points to be reported:
 
  1) Determine the total number of votes casted.
  2) Create a list of candidates who received votes.
